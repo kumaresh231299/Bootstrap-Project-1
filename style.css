@@ -142,6 +142,9 @@ body {
 }
 
 @media (min-width:600px){
+  .navbar-toggler, .navbar-toggler-icon{
+    display: none;
+}
   .banner-left{
       display: none;
   }
